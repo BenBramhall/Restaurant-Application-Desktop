@@ -9,8 +9,13 @@ This is a **false positive**.
    Windows Security → Virus & threat protection → Protection history → Allow the file
 3. Optionally add an exclusion for the program folder
 
-First build of my desktop app. There is currently a bug with the name I am aware of, I will fix it later just wanted to get this posted.
-There is also an issue with the prices, but again, this is more so a tech demo, and I will fix these soon.
+I have fixed every major bug in the new 1.1 version, please download that one. Downloading 1.0 is not recommended as it is hard to navigate and use without prior knowledge. 
+
+1.1 NEW FEATURES
+New order UI
+Delete order feature
+Customer car information
+Added HelpGuide + Software Info
 
 Please download the .exe file and tell me how it runs, would love to know!
 Let me know at benbramhall.13@gmail.com
