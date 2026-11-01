@@ -1,4 +1,9 @@
 # Restaurant-Application-Desktop
+**SUPPORTED PLATFORMS**
+Windows 10/11
+Linux (Debian family only)
+
+
 WARNING
 ### Windows Defender / SmartScreen warning
 Windows may show a “Windows protected your PC” or Trojan warning.  
