@@ -14,8 +14,8 @@ This is a **false positive**.
 I have fixed every major bug in the new 1.1 version, please download that one. Downloading 1.0 is not recommended as it is hard to navigate and use without prior knowledge. 
 
 **SUPPORTED PLATFORMS**
-Windows 10/11
-Linux (Debian family only)
+1. Windows 10/11
+2. Linux (Debian family only)
 
 1.1 NEW FEATURES
 1. New order UI
